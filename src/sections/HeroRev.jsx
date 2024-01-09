@@ -6,7 +6,7 @@ const HeroRev = () => {
     <section className="max-container">
       <h3 className="text-center text-4xl font-bold font-bebas tracking-[0.035em]">
         What Our
-        <span className="text-coral-green"> Heros </span>
+        <span className="text-coral-green"> Heroes </span>
         Say?
       </h3>
       <p className="info-text m-auto mt-4 max-w-lg text-center">
