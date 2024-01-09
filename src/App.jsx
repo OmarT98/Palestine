@@ -9,6 +9,7 @@ import {
   AboutUs,
 } from "./sections";
 import { Nav } from "./components";
+// import { Outlet } from "react-router-dom";
 
 const App = () => {
   return (
@@ -38,6 +39,7 @@ const App = () => {
       <section className=" bg-black padding-x padding-t pb-8">
         <Footer />
       </section>
+      {/* <Outlet /> */}
     </main>
   );
 };
