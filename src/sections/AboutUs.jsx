@@ -6,7 +6,7 @@ const AboutUs = () => {
   return (
     <section
       id="about-us"
-      className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-contanier"
+      className="flex justify-wrap items-center max-xl:flex-col-reverse gap-10 max-container"
     >
       <div className="flex flex-1 flex-col">
         <h2 className="font-bebas tracking-[0.035em] text-4xl capitalize font-bold lg:max-w-lg">
